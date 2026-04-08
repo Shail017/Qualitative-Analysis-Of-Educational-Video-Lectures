@@ -2,11 +2,10 @@
 
 ## Description
 
-This project presents a Natural Language Processing (NLP)-based framework for analyzing the qualitative aspects of educational video lectures. The system converts lecture audio into text, processes the transcription, extracts pedagogically relevant features, and generates structured qualitative ratings.
+This project introduces a Natural Language Processing (NLP)-driven framework designed to evaluate the qualitative dimensions of educational video lectures. The approach involves transcribing lecture audio into text, analyzing the resulting content, extracting pedagogically meaningful features, and producing structured qualitative assessments.
 
 The objective is to provide an automated, reproducible, and scalable method for evaluating lecture quality using measurable linguistic and semantic attributes.
 
----
 
 ## Features
 
